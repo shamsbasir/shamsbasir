@@ -3,7 +3,6 @@
 - 💬 Ask me about deep learing, scientific computing, computational fluid dynamics.
 - 📫 How to reach me: shamsbasir@gmail.com
 - ⚡ Fun fact: I have two B.Sc degrees in aerospace engineering and civil engineering
-- 
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
