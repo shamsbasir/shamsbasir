@@ -3,8 +3,7 @@
 - 💬 Ask me about deep learing, scientific computing, computational fluid dynamics.
 - 📫 How to reach me: shamsbasir@gmail.com
 - ⚡ Fun fact: I have two B.Sc degrees in aerospace engineering and civil engineering
-<a href="https://discord.gg/sevda#8165" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
-
+- 
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
@@ -16,11 +15,5 @@
 </p>
  <p align="center"> 
   Visitor count<br>
-   <img src="https://profile-counter.glitch.me/sevdasanver/count.svg" />
+   <img src="https://profile-counter.glitch.me/shamsbasir/count.svg" />
 </p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver&center=true&size=25">
-  </a>
-</h1>
