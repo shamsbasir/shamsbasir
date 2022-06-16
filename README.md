@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on developing deep learning framework for the simulation of phenomenon in fluid sciences. 
-- 💬 Ask me about deep learing, scientific computing, computational fluid dynamics.
+- 💬 Ask me about deep learning, scientific computing, computational fluid dynamics.
 - 📫 How to reach me: shamsbasir@gmail.com
 - ⚡ Fun fact: I have two B.Sc degrees in aerospace engineering and civil engineering
 
