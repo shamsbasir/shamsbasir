@@ -1,5 +1,5 @@
-
-- 🔭 I’m currently working on developing deep learning framework for the simulation of phenomenon in fluid sciences. 
+-  I am pursuing my PhD in mechanical engineering at the University of Pittsburgh.
+- 🔭 I’m currently working on a developing deep learning framework for the simulation of phenomenon in fluid sciences. 
 - 💬 Ask me about deep learning, scientific computing, computational fluid dynamics.
 - 📫 How to reach me: shamsbasir@gmail.com
 - ⚡ Fun fact: I have two B.Sc degrees in aerospace engineering and civil engineering
