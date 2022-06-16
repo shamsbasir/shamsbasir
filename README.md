@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver.&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Shams+Basir.&center=true&size=25">
   </a>
   
 </h1>
@@ -15,9 +15,7 @@
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@sevdasanver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="30" /></a>
-  
-<a href="https://www.linkedin.com/in/sevda-%C5%9Fanver-594810ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a> 
+<a href="https://www.linkedin.com/in/sevda-%C5%9Fanver-594810ab/" target="blank"><img align="center](https://www.linkedin.com/in/shamsulhaqbasir/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a> 
   
 ---
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
