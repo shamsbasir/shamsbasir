@@ -1,7 +1,15 @@
 
- I am pursuing my PhD degree at University of Pittsburgh.
- Reach me: **shamsbasir@gmail.com**
- 
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: I have two B.Sc degrees in aerospace engineering and civil engineering
+<a href="https://discord.gg/sevda#8165" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
+
+
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,20 +31,3 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver&center=true&size=25">
   </a>
 </h1>
-
-**sevdasanver/sevdasanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://discord.gg/sevda#8165" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
--->
-
-
