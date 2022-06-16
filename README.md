@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/shamsulhaqbasir/" target="blank"><img align="center](https://www.linkedin.com/in/shamsulhaqbasir/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a> 
   
 ---
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 </p>
  <p align="center"> 
   Visitor count<br>
