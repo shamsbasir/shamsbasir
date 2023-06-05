@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shams Basir</h1>
-<h3 align="center">A passionate scientific machine learning researcher at the University of Pittsburgh </h3>
+<h3 align="center">A passionate senior manager,  data scientist at Bristol Myers Squibb </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsbasir&label=Profile%20views&color=0e75b6&style=flat" alt="shamsbasir" /> </p>
 
