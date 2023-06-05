@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsbasir" alt="shamsbasir" /></a> </p>
 
-- 🔭 I’m currently working on [PECANNs](https://shamsbasir.github.io/PECANNs/)
+- 🔭 I’m working on leveraging large langauge models (LLMs) to develop intelligent AI agents that can interact with external data sources to perform complex tasks in healthcare. 
 
-- 💬 Ask me about **deep learning, machine learning, computational fluid dynamics.**
+- 💬 Ask me about **generative AI, deep learning, machine learning, computational fluid dynamics.**
 
 - 📫 How to reach me **shamsbasir@gmail.com**
 
